@@ -30,6 +30,7 @@ i) scikit-learn - It provides statistical modeling including regression, classif
    It uses NumPy for high-performance linear algebra and array operations. 
 
 ###Techniques in Data Science:
+
 i) Regression- We use the regression technique in data science to predict continuous values.
             Some algorithms which we use in regression are linear regression and SVM regressor. 
             
